@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "homeTeam": {
+            "name": "Morocco",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MA",
+            "score": 2
+        },
+        "awayTeam": {
+            "name": "Egypt",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=EG",
+            "score": 1
+        },
+        "date": "2026-07-04",
+        "time": "20:00",
+        "stadium": "Stade Moulay Abdellah, Rabat",
+        "status": "Finished",
+        "manOfTheMatch": "Achraf Hakimi",
+        "details": {
+            "scorers": [
+                "A. Hakimi 45'",
+                "Y. En-Nesyri 78'",
+                "M. Salah 12'"
+            ],
+            "stats": {
+                "possession": "55% - 45%",
+                "shots": "12 - 8"
+            },
+            "cards": [
+                "Ziyech (Yellow)",
+                "Elneny (Yellow)"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "homeTeam": {
+            "name": "Senegal",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SN",
+            "score": 3
+        },
+        "awayTeam": {
+            "name": "Nigeria",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NG",
+            "score": 0
+        },
+        "date": "2026-07-04",
+        "time": "17:00",
+        "stadium": "Grand Stade de Tanger",
+        "status": "Finished",
+        "manOfTheMatch": "Sadio Mané",
+        "details": {
+            "scorers": [
+                "S. Mané 10', 60'",
+                "N. Jackson 85'"
+            ],
+            "stats": {
+                "possession": "52% - 48%",
+                "shots": "15 - 10"
+            },
+            "cards": [
+                "Osimhen (Yellow)"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "homeTeam": {
+            "name": "Ivory Coast",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=CI",
+            "score": 1
+        },
+        "awayTeam": {
+            "name": "Algeria",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=DZ",
+            "score": 1
+        },
+        "date": "2026-07-05",
+        "time": "20:00",
+        "stadium": "Stade Adrar, Agadir",
+        "status": "Finished (Pen 4-5)",
+        "manOfTheMatch": "Riyad Mahrez",
+        "details": {
+            "scorers": [
+                "Halle 30'",
+                "Bounedjah 90+2'"
+            ],
+            "stats": {
+                "possession": "50% - 50%",
+                "shots": "9 - 11"
+            },
+            "cards": []
+        }
+    },
+    {
+        "id": 4,
+        "homeTeam": {
+            "name": "Mali",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ML",
+            "score": 0
+        },
+        "awayTeam": {
+            "name": "Cameroon",
+            "logo": "https://api.dicebear.com/7.x/avataaars/svg?seed=CM",
+            "score": 2
+        },
+        "date": "2026-07-05",
+        "time": "17:00",
+        "stadium": "Stade de Marrakech",
+        "status": "Finished",
+        "manOfTheMatch": "Vincent Aboubakar",
+        "details": {
+            "scorers": [
+                "Aboubakar 22', 40'"
+            ],
+            "stats": {
+                "possession": "40% - 60%",
+                "shots": "5 - 14"
+            },
+            "cards": [
+                "Zambo Anguissa (Yellow)"
+            ]
+        }
+    }
+]
